@@ -1,0 +1,11 @@
+import math
+sq = int(input("Square root:"))
+cb = int(input("Cube root:"))
+ceil = float(input("Ceiling:"))
+floor = float(input("Floor:"))
+fact_orial = int(input("Factorial:"))
+print(math.sqrt(sq))
+print(math.cbrt(cb))
+print(math.ceil(ceil))
+print(math.floor(floor))
+print(math.factorial(fact_orial))
